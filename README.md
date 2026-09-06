@@ -29,6 +29,7 @@ You can help by expanding this list! Feel free to create a PR if you know some m
 | Rostock Straßenbahn AG (RSAG) | https://abfahrten-rsag.de/dfi | ? | RSAG | ✅ | |
 | mobiel (Bielefeld)| https://haltestellenmonitor.vrr.de/vu/mobiel#/index | ? | deutschlandweit (teilweise) | ❌ | EFA-Konfigurator: Einige Optionen |
 | Zürcher Verkehrsverbund (ZVV)| https://www.zvv.ch/de/service/diverse-services/individuelle-fahrgastinfo/individuelle-abfahrtsanzeige.html | ? | ZVV | ❌ |  |
+| Wiener Linien | https://digitales.wien.gv.at/open-data/ | Wiener Linien Datendrehscheibe | Wien                                                  | ? | nur mit Account bei Digitales Wien möglich; |
 
 #	Inoffizielle Services
 | Name | Link | Datenquelle | Zielgebiet | Störungen | Sonstiges |
